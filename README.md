@@ -1,1 +1,5 @@
-# python-github-action
+GitHub Actions study repository.
+
+- GitHub workflows
+- Python
+- Requests
