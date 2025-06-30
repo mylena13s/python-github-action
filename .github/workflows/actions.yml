@@ -30,7 +30,7 @@ jobs:
       - name: commit and push changes
         run: |
           git config --local user.email "2214212@aluno.univesp.br"
-          git config --local user.name "Mylena Silva
+          git config --local user.name "Mylena Silva"
           git add -A
           git diff-index --quiet HEAD || git commit -m "Automated update by GitHub Action"
           git push origin main
